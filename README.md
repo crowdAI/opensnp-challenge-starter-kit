@@ -30,6 +30,10 @@ python random_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 python linear_regression_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 ```
 
+# Predictions by Support Vector Regression
+```
+python svr_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
+```
 
 # Author
 S.P. Mohanty <sharada.mohanty@epfl.ch>
