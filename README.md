@@ -32,17 +32,17 @@ challenge.submit(data)
 challenge.disconnect()
 ```
 
-# Submit Random Predictions
+## Submit Random Predictions
 ```
 python random_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 ```
 
-# Predictions by Linear Regression
+## Predictions by Linear Regression
 ```
 python linear_regression_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 ```
 
-# Predictions by Support Vector Regression
+## Predictions by Support Vector Regression
 ```
 python svr_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 ```
