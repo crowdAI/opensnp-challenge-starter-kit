@@ -10,6 +10,16 @@ pip install -r requirements.txt
 pip install -U crowdai
 ```
 
+# Data download and preparation
+Download all the files from the [CrowdAI Dataset page](https://www.crowdai.org/challenges/opensnp-height-prediction/dataset_files),
+and put them in the `data/` folder. Then :
+```
+cd data/
+gunzip *.gz
+```
+
+**NOTE**: You might not need to download all the files, or even use all the files to come up with your predictions. It is recommended to use the `subset_cm_train.npy` and `train_heights.npy` to train your model, and use `subset_cm_test.npy` to make the predictions.
+
 # Submit Random Predictions
 ```
 python random_predict.py
