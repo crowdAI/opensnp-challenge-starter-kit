@@ -4,7 +4,7 @@
 Starter kit for getting started in the [CrowdAI OpenSNP Challenge](https://www.crowdai.org/challenges/opensnp-height-prediction).
 
 # Installation
-**NOTE** : This challenge requires `python2.7`. So please ensure that you using `python2.7`.
+**NOTE** : This challenge requires `python2.7`. So please ensure that you are using `python2.7`.
 We are working on extending support for `python3`, and will soon be updating this section as soon as it is ready.
 
 ```
