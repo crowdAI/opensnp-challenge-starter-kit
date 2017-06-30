@@ -22,8 +22,14 @@ gunzip *.gz
 
 # Submit Random Predictions
 ```
-python random_predict.py
+python random_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
 ```
+
+# Predictions by Linear Regression
+```
+python linear_regression_predict.py --api_key=<<YOUR_CROWDAI_API_KEY_HERE>>
+```
+
 
 # Author
 S.P. Mohanty <sharada.mohanty@epfl.ch>
