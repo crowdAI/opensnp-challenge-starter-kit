@@ -22,7 +22,7 @@ cd data/
 gunzip *.gz
 ```
 
-**NOTE**: You might not need to download all the files, or even use all the files to come up with your predictions. It is recommended to use the `subset_cm_train.npy` and `train_heights.npy` to train your model, and use `subset_cm_test.npy` to make the predictions.
+**NOTE**: You might not need to download all the files, or even use all the files to come up with your predictions. It is recommended to use just the `subset_cm_train.npy` and `train_heights.npy` to train your model, and use `subset_cm_test.npy` to make the predictions.
 
 # Basic Usage
 
