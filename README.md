@@ -1,6 +1,7 @@
 # opensnp-challenge-starter-kit
+![CrowdAI-Logo](https://www.crowdai.org/assets/crowdai_head_no_background-a765964ef09bac4d057e4a2bacb3f1a28ee3457c9825f6490c78a80034eaf2e2.png)
 
-Starter kit for getting started in the CrowdAI OpenSNP Challenge.
+Starter kit for getting started in the [CrowdAI OpenSNP Challenge](https://www.crowdai.org/challenges/opensnp-height-prediction).
 
 # Installation
 ```
