@@ -2,7 +2,7 @@ appdirs==1.4.3
 certifi==2017.4.17
 chardet==3.0.4
 click==6.7
-crowdai==1.0.6
+crowdai==1.0.7
 enum-compat==0.0.2
 enum34==1.1.6
 Flask==0.12.2
