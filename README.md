@@ -1,5 +1,5 @@
 # opensnp-challenge-starter-kit
-![CrowdAI-Logo](https://camo.githubusercontent.com/5b7dd96dce88e193221d0d2e5b07118fc44dc7d4/68747470733a2f2f7777772e63726f776461692e6f72672f6173736574732f63726f776461695f6c6f676f5f736d696c652d653835653532653032663839343933653335356331343539643034303964653835396330613233396637623137376664373337333164636139636266363166622e737667)
+![CrowdAI-Logo](https://github.com/crowdAI/crowdai/raw/master/app/assets/images/misc/crowdai-logo-smile.svg?sanitize=true)
 
 Starter kit for getting started in the [CrowdAI OpenSNP Challenge](https://www.crowdai.org/challenges/opensnp-height-prediction).
 
