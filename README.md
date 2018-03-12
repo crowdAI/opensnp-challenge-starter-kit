@@ -6,7 +6,7 @@ Starter kit for getting started in the [CrowdAI OpenSNP Challenge](https://www.c
 # Installation
 
 ```
-git clone https://github.com/spMohanty/opensnp-challenge-starter-kit
+git clone https://github.com/crowdAI/opensnp-challenge-starter-kit
 cd opensnp-challenge-starter-kit
 pip install -r requirements.txt
 pip install -U crowdai
