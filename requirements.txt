@@ -22,4 +22,4 @@ termcolor==1.1.0
 tqdm==4.14.0
 urllib3==1.21.1
 websocket-client==0.44.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
